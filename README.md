@@ -8,7 +8,7 @@
   <img src="src/imgs/cart.jpg" width="30%">
 </p>
 
-<h2 align="center">A fake store app with nike shoes to put in the cart just for fun. There is a trending and recent views session. You can also select your shoe size and check your cashout later.
+<h2 align="center">A fake store app with nike shoes to put in the cart just for fun. There is a trending and recent views session. You can also select your shoe size and check your choice at checkout later.
 </h2>
 
 ## ⚙️ Technologies
